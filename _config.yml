@@ -1,6 +1,6 @@
 # Site settings
-name: Advanced Driver Assist Team
-tag_text:
-description: Innovate the future of autonomous vehicles
+name: puppy.ai
+tag_text: puppy, ai, dog
+description: puppy.ai is a simple tool that allows you identify any breed of dog.
 
 exclude: ["INSTALL.md"]

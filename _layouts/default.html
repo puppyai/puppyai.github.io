@@ -20,8 +20,23 @@
       {% include navbar.html %}
     </header>
     <div class="container">
-      <h1><a href="./">{{ site.tag_text }}</a></h1>
+      <div id="logo">
+        <img src="https://raw.githubusercontent.com/puppyai/puppyai.github.io/master/_images/icon.jpg" alt="icon" />
+        <h1><a href="./">{{ site.tag_text }}</a></h1>
+      </div>
+
       {{ content }}
+
+      <div id="images">
+          <img src="https://raw.githubusercontent.com/puppyai/puppyai.github.io/master/_images/dog1.jpg" alt="dog" />
+          <img src="https://raw.githubusercontent.com/puppyai/puppyai.github.io/master/_images/dog2.jpg" alt="dog" />
+          <img src="https://raw.githubusercontent.com/puppyai/puppyai.github.io/master/_images/dog3.jpg" alt="dog" />
+      </div>
+      <div id="app">
+          <a href="http://tavmjong.free.fr/INKSCAPE/">
+            <img src="https://raw.githubusercontent.com/puppyai/puppyai.github.io/master/_images/app_store.jpg" alt="app" />
+          </a>
+      </div>
     </div>
   </div>
 {% include scripts.html %}
