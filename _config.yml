@@ -1,0 +1,6 @@
+# Site settings
+name: Advanced Driver Assist Team
+tag_text:
+description: Innovate the future of autonomous vehicles
+
+exclude: ["INSTALL.md"]
