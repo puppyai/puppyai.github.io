@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 @media (min-width: 30rem) {
@@ -207,5 +207,5 @@ pre > code {
 
 #app-store {
   width: 200px;
-  margin: 20px auto;
+  margin: 10px auto;
 }
