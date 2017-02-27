@@ -194,15 +194,22 @@ pre > code {
 }
 
 #images {
-    width: 100%;
-    display: block;
-    /*height: auto;*/
+    text-align: center;
 }
+
 #images > img {
-    float: left;
-    width: 208px;
-    margin: 20px 10px;
+  display: inline-block;
+  width: 100px;
+  margin: 8px 4px;
+  border-radius: 4px;
+}
+@media (min-width: 30rem) {
+  #images img {
+    display: inline-block;
+    width: 200px;
+    margin: 8px 4px;
     border-radius: 4px;
+  }
 }
 
 #app-store {
