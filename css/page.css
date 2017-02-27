@@ -186,19 +186,6 @@ pre > code {
    color: #40a6ff;
 }
 
-#images {
-    width: 100%;
-    display: block;
-    height: auto;
-}
-#images > img {
-    float: left;
-    width: 200px;
-    height: 267px;
-    margin: 5px 8px;
-    border-radius: 4px;
-}
-
 #logo > img {
     float: left;
     width: 40px;
@@ -206,8 +193,19 @@ pre > code {
     border-radius: 4px;
 }
 
-#app {
-  width: 100%;
-  display: block;
-  height: auto;
+#images {
+    width: 100%;
+    display: block;
+    /*height: auto;*/
+}
+#images > img {
+    float: left;
+    width: 208px;
+    margin: 20px 10px;
+    border-radius: 4px;
+}
+
+#app-store {
+  width: 200px;
+  margin: 20px auto;
 }
