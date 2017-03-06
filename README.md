@@ -10,6 +10,4 @@ For hosting a simple markdown file:
 * Run `jekyll serve` in this repo's directory
 * View page at <http://127.0.0.1:4000/>
 
-
-Created by Jake Garrison 2/26/2017.
 Released under the MIT License.
