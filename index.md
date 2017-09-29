@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-# puppy.ai
+# Dedsimple
 
-puppy.ai is a simple tool that allows you identify any breed of dog. All you need to do is open the app, point your phone at the dog (make sure the dog is in camera view), and wait. Right there, the app begins to "think" and analyze. And in a matter of seconds, the app tells you what that dog's breed is.
+We make it dead simple for your business enterprise to build a camera-based visual recognition application. We do the heavy lifting: collection of datasets, cleansing of datasets, and training / optimizing of models. All you do is build on top of our framework, and you'll be up and running.
