@@ -1,6 +1,4 @@
 # Site settings
-name: puppy.ai
-tag_text:
-description: puppy.ai is a simple tool that allows you identify any breed of dog.
-
+name: Dedsimple
+description: Dedsimple is a machine learning visual recognition platform on which camera-based AI applications can be very easily built.
 exclude: ["INSTALL.md"]
